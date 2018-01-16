@@ -1,0 +1,10 @@
+Ä}q(U	optimizerqc__main__
+adadelta
+qU	validFreqqMËUydim1qKU
+batch_sizeqK»UencoderqUlstmqUtest_datasetq	Utest_setq
+Uydim4qKUydim5qKUydim2qKUreload_modelqNUlrateqG?6‚ÎC-U
+max_epochsqKdUtrain_datasetqU	train_setqUdecay_cqG?*6‚ÎC-U	dim_hidenqK
+Uuse_dropoutqâUdim_projqKUmaxlenqKdUsavetoqUlstm_model_npzqU
+dim_finalxqKU
+model_pathqU
+lstm_modelqUvalid_batch_sizeqK@UsaveFreqqMËUydim3qKu.
